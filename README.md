@@ -1,1 +1,1 @@
-# algo-trading
+# algo-research
